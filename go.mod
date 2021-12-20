@@ -34,9 +34,8 @@ require (
 	github.com/valyala/quicktemplate v1.7.0
 	golang.org/x/net v0.0.0-20211116231205-47ca1ff31462
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
-	golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c
-	google.golang.org/api v0.60.0
-	google.golang.org/genproto v0.0.0-20211116182654-e63d96a377c4 // indirect
+	golang.org/x/sys v0.0.0-20211210111614-af8b64212486
+	google.golang.org/api v0.63.0
 	google.golang.org/grpc v1.42.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
